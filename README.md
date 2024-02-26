@@ -1,5 +1,11 @@
 ### Hi there 👋
-I'm Giovanni! An enthusiastic student at Polytechnic of Turin. If you want to know more about me keep reading!:leftwards_arrow_with_hook:
+I'm Giovanni! If you want to know more about me, read on! :leftwards_arrow_with_hook:
+- 🎓 I'm currently an IT Master's degree student at the Polytechnic of Turin.
+- :shield: I'm starting a thesis on using LLM for cybersecurity attack analysis (stay tuned 👀)
+- :triangular_ruler: I like solving problems, and programming helps me with this!
+- 🚴 I'm sporty in life and leisure.
+
+Enjoy my projects! :man_technologist:
 <!--
 **GioviDetto/GioviDetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
