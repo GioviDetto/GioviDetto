@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Giovanni! An enthusiastic student at Polytechnic of Turin. If you want to know more about me keep reading!:leftwards_arrow_with_hook:
 <!--
 **GioviDetto/GioviDetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
